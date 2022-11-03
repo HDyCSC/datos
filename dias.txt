@@ -1,0 +1,1 @@
+\\bdomingo\\b|\\blunes\\b|\\bmartes\\b|\\bmiércoles\\b|\\bjueves\\b|\\bviernes\\b|\\bsábado\\b|\\bDomingo\\b|\\bLunes\\b|\\bMartes\\b|\\bMiércoles\\b|\\bJueves\\b|\\bViernes\\b|\\bSábado\\b|\\bMiercoles\\b|\\bmiercoles\\b|\\bMIERCOLES\\b|\\bSABADO\\b|\\bSabado\\b|\\bsabado\\b|\\bDOMINGO\\b|\\bLUNES\\b|\\bMARTES\\b|\\bMIÉRCOLES\\b|\\bJUEVES\\b|\\bVIERNES\\b|\\bSÁBADO\\b
